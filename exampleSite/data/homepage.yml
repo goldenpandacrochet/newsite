@@ -99,29 +99,29 @@ testimonial:
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
     # testimonial item loop
-    - name : "Aleksandra Telepko"
-      image : "images/clients/client-1.jpg" # size 100px*100px
+    - name : "Aleksandra"
+      image : "images/clients/client-1.png" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Paulina"
-      image : "images/clients/client-2.jpg" # size 100px*100px
+      image : "images/clients/client-2.png" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Evans Doe"
-      image : "images/clients/client-3.jpg" # size 100px*100px
+      image : "images/clients/client-3.png" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Michael Jackson"
-      image : "images/clients/client-2.jpg" # size 100px*100px
+      image : "images/clients/client-4.png" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "four" # rating star, one to five
