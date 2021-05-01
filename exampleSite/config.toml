@@ -88,20 +88,21 @@ description = "This is meta description"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "50.29420056062527"
+mapLongitude = "18.67055772076395"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+48 691 762 164"
+email = "paulina.zab97@gmail.com"
+location = "Gliwice, Poland"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
-currencySymbol = "$"
+currencySymbol = "PLN"
+#currencySymbol = "$"
 
   # Preloader
   [params.preloader]
@@ -118,7 +119,7 @@ currencySymbol = "$"
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "#"
+  link = "https://www.facebook.com/profile.php?id=100066893749525"
 
   [[params.social]]
   icon = "ti-twitter-alt"
@@ -130,7 +131,7 @@ currencySymbol = "$"
 
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://www.instagram.com/dreaming_of_hollywood/"
 
   [[params.social]]
   icon = "ti-pinterest"
