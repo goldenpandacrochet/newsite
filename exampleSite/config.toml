@@ -113,8 +113,8 @@ currencySymbol = "PLN"
   # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
   [params.rating]
   enable = true
-  websiteID = "444334"
-  publicKey = "811cf0927332bf51f2e12f84608594ac"
+  websiteID = "475398"
+  publicKey = "657321e16fa1bd47a102c1ec808c4e6d"
 
   # Social Site
   [[params.social]]
@@ -123,7 +123,7 @@ currencySymbol = "PLN"
 
   [[params.social]]
   icon = "ti-twitter-alt"
-  link = "#"
+  link = "https://twitter.com/crochet_panda"
 
   [[params.social]]
   icon = "ti-youtube"
@@ -135,7 +135,7 @@ currencySymbol = "PLN"
 
   [[params.social]]
   icon = "ti-pinterest"
-  link = "#"
+  link = "https://www.pinterest.com/goldenpandacrochet/"
 
   # Contact Form
   [params.contact]
